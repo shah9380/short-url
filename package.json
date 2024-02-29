@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "shah misbahul islam",
+  "author": "misbah",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
